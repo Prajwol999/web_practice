@@ -30,4 +30,11 @@ public class Role {
     private Collection<Users> users;
 
 
+    public void setRoleName(String roleName) {
+
+    }
+
+    public void setRoleType(String roleType) {
+
+    }
 }
